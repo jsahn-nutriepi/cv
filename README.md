@@ -1,1 +1,182 @@
-# cv
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+<head>
+
+	<title>Jeong Sun Ahn | Nutritional epidemiologist, Dietitian in South Korea | jungsun6564@gmail.com
+	</title>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+
+	<meta name="keywords" content="" />
+	<meta name="description" content="" />
+
+	<link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/2.7.0/build/reset-fonts-grids/reset-fonts-grids.css" media="all" /> 
+	<link rel="stylesheet" type="text/css" href="resume.css" media="all" />
+
+</head>
+<body>
+
+<div id="doc2" class="yui-t7">
+	<div id="inner">
+	
+		<div id="hd">
+			<div class="yui-gc">
+				<div class="yui-u first">
+					<h1>Jeong Sun Ahn</h1>
+					<h2>Nutritional epidemiologist, <br> Dietitian in South Korea</h2>
+				</div>
+
+				<div class="yui-u">
+					<div class="contact-info">
+						<h3><a id="pdf" href="#">Download PDF</a></h3>
+						<h3><a href="mailto:jungsun6564@gmail.com">jungsun6564@gmail.com</a></h3>
+						<h3>(609) - 297-6283</h3>
+					</div><!--// .contact-info -->
+				</div>
+			</div><!--// .yui-gc -->
+		</div><!--// hd -->
+
+		<div id="bd">
+			<div id="yui-main">
+				<div class="yui-b">
+
+					<div class="yui-gf">
+						<div class="yui-u first">
+							<h2>Skills</h2>
+						</div>
+						<div class="yui-u">
+
+								<div class="talent">
+									<h2>Statistical Analysis</h2>
+									<p>&nbsp;Analysing data from cross-sectional studies (e.g., Korea NHANES) and RCTs
+										<br>&nbsp;&nbsp;- Skilled in various statistical techniques, including comparing groups, linear regression, logistic regression, etc.  </p>
+								</div>
+
+								<div class="talent">
+									<h2>Research Design and Exicution</h2>
+									<p>&nbsp;Designing/conducting RCTs and qualitative studies
+										<br>&nbsp;Developmenting content for a diet tracking app
+									    <br>&nbsp;Development/validation of questionnaires </p>
+								</div>
+
+								<div class="talent">
+									<h2>Data Documentation and Visualization</h2>
+									<p>&nbsp;Communicating research findings in public(via press releases and reports)
+										<br>&nbsp;Designing and drawing diverse graphs for data visualization
+									</p>
+								</div>
+						</div>
+					</div><!--// .yui-gf -->
+
+					<div class="yui-gf">
+						<div class="yui-u first">
+							<h2>Technical</h2>
+						</div>
+						<div class="yui-u">
+							<ul class="talent">
+								<li><b>Proficient</b></li>
+								<li class="last"><b>Experienced</b></li>
+							</ul>
+
+							<ul class="talent">
+								<li>SAS</li>
+								<li class="last">R, Python</li>
+							</ul>
+
+							<ul class="talent">
+								<li> Word, Excel, Powerpoint&nbsp;</li>
+								<li class="last">InDesign, Procreate</li>
+							</ul>
+							
+
+						</div>
+					</div><!--// .yui-gf-->
+
+					<div class="yui-gf">
+	
+						<div class="yui-u first">
+							<h2>Experience</h2>
+						</div><!--// .yui-u -->
+
+						<div class="yui-u">
+
+							<div class="job">
+								<h2>Ministry of Food and Drug Safety</h2>
+								<h3>Scientific officer(Functional Food Research Division) <br>(leave of absence from Jan 2023)</h3>
+								<h4>Aug 2020~Jan 2023</h4>
+								<p>(수정필요)Intrinsicly enable optimal core competencies through corporate relationships. Phosfluorescently implement worldwide vortals and client-focused imperatives. Conveniently initiate virtual paradigms and top-line convergence. </p>
+							</div>
+
+							<div class="job last">
+								<h2>Ministry of Food and Drug Safety</h2>
+								<h3>Researcher(Dietary and Nutritional Safety Policy Division)</h3>
+								<h4>Apr 2019~Jul 2020</h4>
+								<p>(수정필요)Progressively reconceptualize multifunctional "outside the box" thinking through inexpensive methods of empowerment. Compellingly morph extensive niche markets with mission-critical ideas. Phosfluorescently deliver bricks-and-clicks strategic theme areas rather than scalable benefits. </p>
+							</div>
+
+
+						</div><!--// .yui-u -->
+					</div><!--// .yui-gf -->
+
+
+					<div class="yui-gf">
+						<div class="yui-u first">
+							<h2>Education</h2>
+						</div>
+						<div class="yui-u">
+							<div class="job">
+							<h2>Seoul National University</h2>
+							<h4>Sep 2021 ~</h4>
+							<h3>Coursework towerd a Ph.D in Food and Nutrition <br> (leave of absence from Mar 2023)  </h3>
+						</div>
+							<div class="job">
+							<h2>Seoul National University</h2>
+							<h4>Mar 2017~Feb 2019</h4>
+							<h3>M.S. in Food and Nutrition (Advisor: Jung Eun Lee<a href="https://www.nutritional-epidemiology.org/">(site↗)</a>) 
+							<p> Thesis - <i>Use of a Mobile Dietary Self-monitoring Application for Weight Loss versus a Paper-based Dietary Diary : A Randomized Trial</i>  </p>
+						</div>
+					
+						<div class="job last">
+							<h2>Sookmyung Women's University</h2>
+							<h3>B.S. in Food and Nutrition</h3>
+							<h4>Mar 2012~Feb 2017</h4>
+							<p>Completed curriculum for teaching profession
+								<br>  </p>
+						</div>
+
+					</div><!--// .yui-u -->
+				</div><!--// .yui-gf -->
+
+					<div class="yui-gf last">
+						<div class="yui-u first">
+							<h2>Publications</h2>
+						</div>
+						<div class="yui-u">
+							<div class="job last">
+							<h3>Lee H, <strong>Ahn JS</strong>, Lee JE. Development and Validation of a Questionnaire on the Feasibility of a Mobile Dietary Self-Monitoring Application. Korean Journal of Community Nutrition. 2022;27(2):146-157  </h3>
+							<br> <h3>Moon SE, Shin WK, Song S, Koh D, <strong>Ahn JS</strong>, Yoo Y, Kang M, Lee JE. Validity and reproducibility of a food frequency questionnaire for breast cancer survivors in Korea. Nutr Res Pract. 2022;16:e31</h3>
+							<br> <h3><strong>Ahn JS</strong>, Lee H, Kim J, Park H, Kim DW, Lee JE. Use of a Smartphone App for Weight Loss Versus a Paper-Based Dietary Diary in Overweight Adults: Randomized Controlled Trial. JMIR mHealth and uHealth. 2020;8(7):e14013</h3>
+							<br> <h3><strong>Ahn JS</strong>, Kim DW, Kim J, Park H, Lee JE. Development of a smartphone application for dietary self-monitoring. Front. Nutr. 2019;6:149</h3>
+							<br> <h3><strong>Ahn JS</strong>, Song S, Moon SE, Kim S, Lee JE. The Perception of Laymen and Experts Toward Mobile Applications for Self-monitoring of Diet Based on in-depth Interviews and Focus Group Interviews. Korean Journal of Community Nutrition. 2018 Jun 1;23(3):202-15.</h3>
+							<br> <h3>Lee JE, Song S, <strong>Ahn JS</strong>, Kim Y, Lee JE. Use of a Mobile Application for Self-Monitoring Dietary Intake: Feasibility Test and an Intervention Study. Nutrients. 2017;9(7). pii: E748</h3>
+						</div>
+					
+
+
+
+				</div><!--// .yui-b -->
+			</div><!--// yui-main -->
+		</div><!--// bd -->
+
+		<div id="ft">
+			<p>Jeong Sun Ahn &mdash; <a href="mailto:jungsun6564@gmail.com">jungsun6564@gmail.com</a> &mdash; (609) - 297-6283</p>
+		</div><!--// footer -->
+
+	</div><!-- // inner -->
+
+
+</div><!--// doc -->
+
+
+</body>
+</html>
